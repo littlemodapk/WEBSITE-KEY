@@ -1,0 +1,41 @@
+{
+  "gate_enabled": true,
+  "app_title": "STUDYxPANDA",
+  "subtitle": "Device Verification",
+  "validity_hours": 24,
+  "min_wait_seconds": 120,
+  "key_prefix": "TEAMxROHIT-",
+  "destination": "https://translate.google.com/?sl=auto&tl=en&op=translate&text=",
+  "how_url": "https://youtu.be/Hfdmd-yPvyA",
+  "admin_url": "https://t.me/TEAMxROHIT",
+  "servers": [
+    {
+      "name": "(Server 1)",
+      "api": "https://arolinks.com/api",
+      "token": "90f2dbd00070729964ec45a3a9186917388568f7",
+      "json_key": "shortenedUrl",
+      "enabled": true
+    },
+    {
+      "name": "(Server 2)",
+      "api": "https://arolinks.com/api",
+      "token": "90f2dbd00070729964ec45a3a9186917388568f7",
+      "json_key": "shortenedUrl",
+      "enabled": true
+    }
+  ],
+  "how_steps": [
+    "Click \"Get free key\" above",
+    "Complete the simple task",
+    "Copy your activation key",
+    "Paste it above and activate"
+  ],
+  "show": {
+    "join": true,
+    "paste": true,
+    "servers": true,
+    "how_button": true,
+    "steps": true,
+    "social": true
+  }
+}
