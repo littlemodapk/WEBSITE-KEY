@@ -3,7 +3,7 @@
   "app_title": "STUDYxPANDA",
   "subtitle": "Device Verification",
   "validity_hours": 24,
-  "min_wait_seconds": 120,
+  "min_wait_seconds": 1,
   "key_prefix": "TEAMxROHIT-",
   "destination": "https://translate.google.com/?sl=auto&tl=en&op=translate&text=",
   "how_url": "https://youtu.be/Hfdmd-yPvyA",
