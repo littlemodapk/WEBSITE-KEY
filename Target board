@@ -1,5 +1,5 @@
 {
-  "gate_enabled":true,
+  "gate_enabled":false,
   "app_title": "STUDYxPANDA",
   "subtitle": "Device Verification",
   "validity_hours": 24,
