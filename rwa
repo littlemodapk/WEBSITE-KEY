@@ -1,1 +1,6 @@
-CONFIGURING COMMING SOON...
+{
+  "keySystemEnabled": true,
+  "accessDurationHours": 48,
+  "linkCooldownMinutes": 20,
+  "codeExpirySeconds": 150
+}
